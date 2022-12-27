@@ -1,6 +1,8 @@
-8 | Daily Stand Up started | Ratan | 19 Dec 2022 | 0.00
+9 | Backlog creation and start of Daily Stand Up | Ratan | 19 Dec 2022 | 0.00
 
-7 | Ratan Upadhyay onboarded | Prady, Ratan | 17 Dec 2022 | 0.00
+8 | Ratan Upadhyay joined in active mode | Prady, Ratan | 17 Dec 2022 | 0.00
+
+7 | Registered as author at Raja Rammohun Roy National Agency for ISBN | Prady | 21 Nov 2022 | 0.00
 
 6 | https://sahajcode.com first landing page went live | Prady, Trina, Koyeli | 16 Nov 2022 | 0.00
 
