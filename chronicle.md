@@ -1,3 +1,5 @@
+12 | First 4 shorts on nginx, httpd, haproxy, keepalived went live | Prady, Ratan | 9 Jan 2022 | 0.00
+
 11 | sahaj code introduction video, short and reel uploaded and made live | Prady, Ratan | 29 Dec 2022 | 0.00
 
 10 | Background score for videos purchased from Yellow tunes | Prady | 29 Dec 2022 | 399.00
